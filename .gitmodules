@@ -1,0 +1,3 @@
+[submodule "DailyTasks"]
+	path = DailyTasks
+	url = https://github.com/VJiaHY/DailyTasks.git
